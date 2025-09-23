@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ]
+  ],
+  "legacy_uid": "1079b595-a26b-a6e5-7cbc-52bf01ae8c3d",
+  "instructors": {
+    "content": [
+      "2a1a2add-3d97-38ad-1997-df1f491b4bcd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "65c70066-5926-8063-e6bf-51b998455f49",
+    "website": "14-122-microeconomic-theory-ii-fall-2002"
+  },
+  "course_title": "Microeconomic Theory II",
+  "course_description": "This course offers an introduction to noncooperative game theory. The course is intended both for graduate students who wish to develop a solid background in game theory in order to pursue research in the applied fields of economics and related disciplines, and for students wishing to specialize in economic theory. While the course is designed for graduate students in economics, it is open to all students who have taken and passed 14.121.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.122",
+  "course_image_thumbnail": {
+    "content": "e3b00fb0-d46d-11f8-4992-594ff78cf0e4",
+    "website": "14-122-microeconomic-theory-ii-fall-2002"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Problem Sets"
+  ],
+  "site_uid": "269943fe-c2ed-45b2-9359-71db795b95d8",
+  "site_short_id": "14.122-fall-2002",
+  "site_url_path": "courses/14-122-microeconomic-theory-ii-fall-2002",
+  "title": "Course Metadata"
+}
