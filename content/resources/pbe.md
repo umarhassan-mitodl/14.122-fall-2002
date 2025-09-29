@@ -4,6 +4,8 @@ description: Handout on perfect Bayesian equilibria in signaling games.
 file: /courses/14-122-microeconomic-theory-ii-fall-2002/0c77aa544ed2ea3d26fed6f9e4460551_pbe.pdf
 file_size: 139347
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

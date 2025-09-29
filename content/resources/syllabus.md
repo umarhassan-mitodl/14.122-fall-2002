@@ -5,6 +5,8 @@ description: This syllabus provides the course description and a tentative cours
 file: /courses/14-122-microeconomic-theory-ii-fall-2002/0590444e362a56b6511a725508fdcf73_syllabus.pdf
 file_size: 131511
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

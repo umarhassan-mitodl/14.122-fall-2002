@@ -5,6 +5,8 @@ description: Problem set on macroeconomic theory, the Debreu-Fan-Glicksburg Theo
 file: /courses/14-122-microeconomic-theory-ii-fall-2002/62b5cc06fc5ea76e0a9c79286ca8df71_ps3q.pdf
 file_size: 139250
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

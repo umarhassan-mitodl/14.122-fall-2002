@@ -4,6 +4,8 @@ description: Problem set on microeconomic theory, game theory, and Nash equilibr
 file: /courses/14-122-microeconomic-theory-ii-fall-2002/d31882f525b7d6dddcb39e7a66348bd9_ps2q.pdf
 file_size: 101037
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
